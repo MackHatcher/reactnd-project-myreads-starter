@@ -22,12 +22,11 @@ This is my book management app, where you are able to search for books in the Bo
 
 ## Screenshots
  
- * The main collection page
+### The main collection page
  
 ![Main Collection Page](http://i67.tinypic.com/ayoa47.png "Main Collection Page")
 
-* The search screen page
+### The search screen page
 
-Inline-style: 
 ![Search Screen Page](http://i68.tinypic.com/wgp7qf.png "Search Screen Page")
 
