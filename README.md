@@ -14,7 +14,7 @@ This is my book management app, where you are able to search for books in the Bo
 ## Resources and Documentation
 [Create-react-app Documentation](https://github.com/facebook/create-react-app "Create-React-App")
 
-You can find more information on how to perform common tasks [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+  You can find more information on how to perform common tasks [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 [React-router Documentation](http://knowbody.github.io/react-router-docs/ "React-router")
 
