@@ -13,7 +13,9 @@ This is my book management app, where you are able to search for books in the Bo
 
 ## Resources and Documentation
 [Create-react-app Documentation](https://github.com/facebook/create-react-app "Create-React-App")
+
 [React-router Documentation](http://knowbody.github.io/react-router-docs/ "React-router")
+
 [BooksAPI Documentation](https://reactnd-books-api.udacity.com/ "BooksAPI")
 
 
