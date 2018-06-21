@@ -21,9 +21,8 @@ This is my book management app, where you are able to search for books in the Bo
 [BooksAPI Documentation](https://reactnd-books-api.udacity.com/ "BooksAPI")
 
 ## Screenshots
-
-Inline-style: 
-![Main Collection Page](.\src\main-screen.png "Main Collection Page")
+ 
+![Main Collection Page](src\main-screen.png "Main Collection Page")
 
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
