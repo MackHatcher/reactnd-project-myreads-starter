@@ -17,8 +17,8 @@ class BookList extends Component {
                 {categories.map((shelf, index) => {
                     const shelfItems = books.filter (book => book.shelf === shelf.type)
                     return (
-                        <div className="bookshelf">
-                            <h2 className="bookshelf-title"></h2>
+                        <div className="bookshelf" key={index}>
+                            <h2 className="bookshelf-title">{ shelf.title }</h2>
                             <div className="bookshelf-books">
                                 <BookShelf
                                     books={ shelfItems }
